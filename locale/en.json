@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Resources",
+    "description": "Manage compute nodes, container images, and deployments locally, with tools for the model and other plugins."
+  },
+  "panel": "Resources"
+}
